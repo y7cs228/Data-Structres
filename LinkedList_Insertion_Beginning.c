@@ -1,4 +1,5 @@
-#This program inserts the nodes at the beginning of the linked list
+/* This program inserts the nodes at the beginning of the linked list */
+
 #include<stdio.h>
 #include<stdlib.h>
 struct node
